@@ -2,7 +2,7 @@
 
 In this project, a data pipeline was developed following the workflow below:
 
-![image](https://github.com/millenagena/pipeline-python-mongo-mysql/assets/69437878/66c7f3c2-d0d4-4744-b5a6-4d233bbd3646)
+![image](https://github.com/millenagena/pipeline-python-mongo-mysql/assets/69437878/cc958bc5-b147-4d1d-9aea-78a69602aa7d)
 
 In the notebook `extract_and_save_data.ipynb`, I start by extracting data from an API that contains information on sold products. Once the data is extracted, I store it in a MongoDB Atlas database.
 
